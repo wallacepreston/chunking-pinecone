@@ -1,0 +1,15 @@
+# Virtual environment
+myenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Environment configuration
+.env
+
+# Logs
+*.log
